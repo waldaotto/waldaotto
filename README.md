@@ -34,7 +34,7 @@ Meu objetivo é seguir na carreira de tecnologia e continuar avançando cada vez
 > 🗃️ Banco de Dados   
   
 > 📝 Desenhos Tecnicos  
-> 💡 Eletroeletronica
+> 💡 Eletroeletronica  
 > 🪛 Programação Ladder para CLPs  
 
 
