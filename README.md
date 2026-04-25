@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou WALDAIR
 
-🎓 Estudante da Aprendizagem Industrial de Desinvolvimento de Sistemas da Informação  
+🎓 Estudante da Aprendizagem Industrial de Desenvolvimento de Sistemas da Informação  
 🎓 Estudante do Técnico de Automação Industrial  
 🎓 Estudante do Jovem Programador SENAC  
 💻 Interessado em tecnologia, programação e inovação  
