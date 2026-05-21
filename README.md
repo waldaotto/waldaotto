@@ -19,7 +19,7 @@ Meu objetivo é seguir na carreira de tecnologia e continuar avançando cada vez
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 
 
@@ -36,7 +36,7 @@ Meu objetivo é seguir na carreira de tecnologia e continuar avançando cada vez
   
 > 📝 Desenhos Tecnicos  
 > 💡 Eletroeletronica  
-> 🪛 Programação Ladder para CLPs  
+ 
 
 
 ---
@@ -53,8 +53,8 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
 ## 📫 Contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) https://github.com/waldaotto   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) waldaotto@gmail.com  
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) https://www.linkedin.com/in/waldair-otto-menegassi-47b0012b7  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)] https://github.com/waldaotto   
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)] waldaotto@gmail.com  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)] https://www.linkedin.com/in/waldair-otto-menegassi-47b0012b7  
 
 ---
