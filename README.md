@@ -24,23 +24,6 @@ Meu objetivo é seguir na carreira de tecnologia e continuar avançando cada vez
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 
-
----
-
-## 📚 O que estou estudando
-
-> 🧠 Lógica de Programação   
-> 🐍 Programação em Python   
-> 🐘 Programação em PHP  
-> 🌐 Desenvolvimento Web  
-> 📊 Ferramentas Digitais   
-> 🗃️ Banco de Dados   
-  
-> 📝 Desenhos Tecnicos  
-> 💡 Eletroeletronica  
- 
-
-
 ---
 
 ## 🚀 Projetos
