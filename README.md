@@ -1,16 +1,14 @@
-# 👋 Olá, eu sou WALDAIR
+#  Olá, eu sou WALDAIR OTTO ![Developer](https://img.shields.io/badge/Developer-181717?style=for-the-badge&logo=code&logoColor=white)![Backend](https://img.shields.io/badge/BACKEND-3776AB?style=for-the-badge)
 
-🎓 Estudante da Aprendizagem Industrial de Desenvolvimento de Sistemas da Informação  
-🎓 Estudante do Técnico de Automação Industrial  
-🎓 Estudante do Jovem Programador SENAC  
+
+
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante da área de tecnologia e estou aprendendo conceitos de programação, desenvolvimento web e ferramentas digitais.  
-Meu objetivo é seguir na carreira de tecnologia e continuar avançando cada vez mais na área.
+Sou uma pessoa curiosa que gosta de entender como as coisas funcionam por trás dos sistemas, explorando diferentes áreas da tecnologia e colocando meus conhecimentos em prática através de projetos.
 ---
 
 ## 🛠 Tecnologias que estou aprendendo
@@ -35,9 +33,19 @@ Meu objetivo é seguir na carreira de tecnologia e continuar avançando cada vez
 
 ## 🚀 Projetos
 
-Aqui estão alguns projetos que desenvolvi durante meus estudos:
+> 📌 [Portifolio Pessoal](https://waldaotto.github.io/portifolio) 
+> Desenvolvimento de um painel portifólio.
 
-📌 [Portifolio Pessoal](https://waldaotto.github.io/portifolio)  
+> 📌 [Mundo Senai 2026](https://github.com/waldaotto/mundo_senai.git)
+> Projeto desenvolvido para o Mundo Senai de 2026.
+
+---
+
+## 🎓 Formação
+
+ Estudante da Aprendizagem Industrial de Desenvolvimento de Sistemas da Informação (2026)  
+ Estudante do Técnico de Automação Industrial (2026/2027)  
+ Jovem Programador SENAC (2025)  
 
 ---
 
