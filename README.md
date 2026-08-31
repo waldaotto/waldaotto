@@ -43,12 +43,26 @@ Sou uma pessoa curiosa que gosta de entender como as coisas funcionam por trás 
 
 ## 🎓 Formação
 
- Estudante da Aprendizagem Industrial de Desenvolvimento de Sistemas da Informação (2026)  
- Estudante do Técnico de Automação Industrial (2026/2027)  
- Jovem Programador SENAC (2025)  
-
----
-
+```php
+$formacoes = [
+ [
+  'curso'=>'Aprendizagem Industrial de Desenvolvimento de Sistemas da Informação',
+  'ano'=>2026,
+  'instituicao'=>'senai'
+ ],
+ [
+  'curso'=>'Técnico de Automação Industrial',
+  'ano'=>'2026-2027',
+  'instituicao'=>'senai'
+ ],
+ [
+  'curso'=>'Jovem Programador',
+  'ano'=>2025,
+  'instituicao'=>'senac'
+ ]
+];
+```
+--- 
 ## 📫 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waldaotto)
