@@ -42,6 +42,9 @@ Sou uma pessoa curiosa que gosta de entender como as coisas funcionam por trás 
 > 📌 [Mundo Senai 2026](https://github.com/waldaotto/mundo_senai.git)
 > Projeto desenvolvido para o Mundo Senai de 2026.
 
+> 📌 [Python RPG](https://github.com/waldaotto/python-rpgarg.git)
+> jogo RPG Deck Builder em python.
+
 ---
 
 ## 🎓 Formação
