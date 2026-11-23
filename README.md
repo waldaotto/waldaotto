@@ -43,6 +43,9 @@ I'm a curious person who enjoys understanding how things work behind the scenes 
 > 📌 [Python RPG](https://github.com/waldaotto/python-rpgarg.git)
 > A deck-building RPG game written in Python.
 
+> 📌 [TaskManager](https://github.com/waldaotto/taskmanager)
+> A task manager written in PHP.
+
 ---
 
 ## 🎓 Education
