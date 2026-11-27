@@ -36,17 +36,19 @@ I'm a curious person who enjoys understanding how things work behind the scenes 
 
 > 📌 [Personal Portfolio](https://waldaotto.github.io/portifolio)
 > A portfolio dashboard built to showcase my work.
+![Last Commit](https://img.shields.io/github/last-commit/waldaotto/portifolio?style=for-the-badge&color=24292F)
 
 > 📌 [Mundo Senai 2026](https://github.com/waldaotto/mundo_senai.git)
 > A project developed for Mundo Senai 2026.
-
-> 📌 [Python RPG](https://github.com/waldaotto/python-rpgarg.git)
-> A deck-building RPG game written in Python.
+![Last Commit](https://img.shields.io/github/last-commit/waldaotto/mundo_senai?style=for-the-badge&color=24292F)
 
 > 📌 [TaskManager](https://github.com/waldaotto/taskmanager)
 > A task manager written in PHP.
+![Last Commit](https://img.shields.io/github/last-commit/waldaotto/taskmanager?style=for-the-badge&color=24292F)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waldaotto&show_icons=true&theme=dark)
+![Repos](https://img.shields.io/github/repos/SEU_USUARIO?style=for-the-badge&logo=github&color=181717)
+
 ---
 
 ## 🎓 Education
