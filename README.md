@@ -46,6 +46,7 @@ I'm a curious person who enjoys understanding how things work behind the scenes 
 > 📌 [TaskManager](https://github.com/waldaotto/taskmanager)
 > A task manager written in PHP.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waldaotto&show_icons=true&theme=dark)
 ---
 
 ## 🎓 Education
