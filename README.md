@@ -2,7 +2,7 @@
 print("Hello World!")
 ```
 # 👨‍💻 [Waldair Otto](https://waldaotto.github.io/portifolio)
-[Developer Backend](https://img.shields.io/badge/Developer-181717?style=for-the-badge&logo=code&logoColor=white)![Backend](https://img.shields.io/badge/BACKEND-3776AB?style=for-the-badge)
+![Developer](https://img.shields.io/badge/Developer-181717?style=for-the-badge&logo=code&logoColor=white)![Backend](https://img.shields.io/badge/BACKEND-3776AB?style=for-the-badge)
 
 ### Backend Developer | Technology Enthusiast
 
