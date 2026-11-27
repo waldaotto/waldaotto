@@ -47,7 +47,7 @@ I'm a curious person who enjoys understanding how things work behind the scenes 
 ![Last Commit](https://img.shields.io/github/last-commit/waldaotto/taskmanager?style=for-the-badge&color=24292F)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waldaotto&show_icons=true&theme=dark)
-![Repos](https://img.shields.io/github/repos/SEU_USUARIO?style=for-the-badge&logo=github&color=181717)
+![Repos](https://img.shields.io/github/repos/waldaotto?style=for-the-badge&logo=github&color=181717)
 
 ---
 
