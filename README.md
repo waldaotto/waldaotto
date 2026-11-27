@@ -2,13 +2,11 @@
 print("Hello World!")
 ```
 # 👨‍💻 [Waldair Otto](https://waldaotto.github.io/portifolio)
-![Developer](https://img.shields.io/badge/Developer-181717?style=for-the-badge&logo=code&logoColor=white)![Backend](https://img.shields.io/badge/BACKEND-3776AB?style=for-the-badge)
-
-### Backend Developer | Technology Enthusiast
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-b87943?style=for-the-badge&logo=googlechrome&logoColor=white)](https://waldaotto.github.io/portifolio)
 [![Developer](https://img.shields.io/badge/Developer-24292F?style=for-the-badge&logo=code&logoColor=white)](#)
 [![Backend](https://img.shields.io/badge/Backend-3776AB?style=for-the-badge&logo=serverfault&logoColor=white)](#)
+
+### Backend Developer | Technology Enthusiast
 
 💻 Interested in technology, programming, software development, and innovation.
 
