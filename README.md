@@ -1,4 +1,8 @@
-# 👨‍💻 Waldair Otto
+```python
+print("Hello World!")
+```
+# 👨‍💻 [Waldair Otto](https://waldaotto.github.io/portifolio)
+[Developer Backend](https://img.shields.io/badge/Developer-181717?style=for-the-badge&logo=code&logoColor=white)![Backend](https://img.shields.io/badge/BACKEND-3776AB?style=for-the-badge)
 
 ### Backend Developer | Technology Enthusiast
 
@@ -10,7 +14,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a curious person who enjoys understanding how things work behind the scenes of software systems.
 
@@ -20,7 +24,7 @@ My main interests are **backend development, databases, and software architectur
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 **Backend Development**
 
@@ -48,21 +52,21 @@ My main interests are **backend development, databases, and software architectur
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌐 [Personal Portfolio](https://waldaotto.github.io/portifolio)
+### [Personal Portfolio](https://waldaotto.github.io/portifolio)
 
 A personal portfolio developed to showcase my projects, skills, and journey in technology.
 
 ![Last Commit](https://img.shields.io/github/last-commit/waldaotto/portifolio?style=flat-square&color=24292F&logo=github)
 
-### ⚙️ [Mundo SENAI 2026](https://github.com/waldaotto/mundo_senai)
+### [Mundo SENAI 2026](https://github.com/waldaotto/mundo_senai)
 
 A project developed for Mundo SENAI 2026, exploring technology and practical development.
 
 ![Last Commit](https://img.shields.io/github/last-commit/waldaotto/mundo_senai?style=flat-square&color=24292F&logo=github)
 
-### 📋 [TaskManager](https://github.com/waldaotto/taskmanager)
+### [TaskManager](https://github.com/waldaotto/taskmanager)
 
 A task management application developed with PHP, focused on organizing tasks and managing user information.
 
@@ -70,7 +74,7 @@ A task management application developed with PHP, focused on organizing tasks an
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -84,7 +88,7 @@ A task management application developed with PHP, focused on organizing tasks an
 
 ---
 
-## 🎓 Education
+## Education
 
 **SENAI — Industrial Apprenticeship in Information Systems Development**
 
